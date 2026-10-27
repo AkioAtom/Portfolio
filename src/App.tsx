@@ -12,9 +12,9 @@ import Particles from "./components/ui/particles.background";
 function App() {
 	return (
 		<div className="relative overflow-x-hidden">
-			<div className="fixed inset-0 -z-10">
+			<div className="fixed inset-0 h-screen w-screen -z-10">
 				<Particles
-					className="fixed inset-0 -z-10 h-screen w-screen pointer-events-none"
+					className="fixed inset-0 -z-10 min-h-screen w-screen pointer-events-none"
 					particleCount={200}
 					particleSpread={10}
 					speed={0.1}

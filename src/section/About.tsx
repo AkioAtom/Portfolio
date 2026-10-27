@@ -2,7 +2,10 @@ import EducationCard from "@/components/ui/EducationCard";
 
 function About() {
 	return (
-		<div id="about" className="relative min-h-full my-37.5 z-10 px-4 sm:px-8 md:px-16 lg:px-62.5 py-12 sm:py-16 md:py-20 lg:py-25 flex flex-col gap-12 md:gap-16 lg:gap-24 mx-5 rounded-t-4xl">
+		<div
+			id="about"
+			className="relative min-h-full my-37.5 z-10 px-4 sm:px-8 md:px-16 lg:px-62.5 py-12 sm:py-16 md:py-20 lg:py-25 flex flex-col gap-12 md:gap-16 lg:gap-24 mx-5 rounded-t-4xl"
+		>
 			{/* About Me Heading */}
 			<div className="w-3xs relative inline-block px-6 sm:px-8 md:px-10 py-4 sm:py-5 md:py-6">
 				<span className="absolute top-0 right-0 w-3 sm:w-4 h-3 sm:h-4 border-t-2 border-r-2 border-white"></span>
@@ -112,7 +115,7 @@ function About() {
 			"
 						>
 							<h3 className="text-xl font-semibold text-white">
-								Cloud & AI
+								System Design
 							</h3>
 
 							<p className="text-white/50 text-sm mt-2">

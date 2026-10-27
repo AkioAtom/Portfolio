@@ -39,7 +39,7 @@ function Resume() {
 
 				{/* Button */}
 				<a
-					href="https://github.com/HarshK213/Resume/blob/main/Harsh_Kushwaha_Resume.pdf"
+					href="https://github.com/AkioAtom/Resume/blob/main/Harsh_Kushwaha_Resume.pdf"
 					target="_blank"
 					rel="noopener noreferrer"
 					className="

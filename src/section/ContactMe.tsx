@@ -40,7 +40,7 @@ function ContactMe() {
 				{/* Social Links */}
 				<div className="mt-12 flex flex-wrap justify-center gap-4">
 					<a
-						href="https://github.com/HarshK213"
+						href="https://github.com/AkioAtom"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="
